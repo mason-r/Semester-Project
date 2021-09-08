@@ -7,8 +7,8 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="drawing.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.72337262"
-     inkscape:cx="188.69943"
-     inkscape:cy="527.39071"
+     inkscape:zoom="2.8934905"
+     inkscape:cx="615.69237"
+     inkscape:cy="614.30996"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -39,58 +39,63 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#5797ff;fill-rule:evenodd;stroke-width:3;fill-opacity:1;stroke:#217eea;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="path31"
        cx="41.697044"
        cy="45.720444"
        r="25.603447" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#fff64a;fill-rule:evenodd;stroke-width:3;stroke:#e4d328;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle113"
        cx="41.697044"
        cy="103.92876"
        r="25.603447" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#ff2f00;fill-rule:evenodd;stroke-width:3;stroke:#da0b28;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
        id="circle115"
        cx="41.697044"
        cy="163.19545"
        r="25.603447" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#41cd21;fill-rule:evenodd;stroke-width:3;fill-opacity:1;stroke:#459f28;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle117"
        cx="41.697044"
        cy="222.46216"
        r="25.603447" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.283263"
+       style="fill:#5797ff;fill-rule:evenodd;stroke-width:0.283263;fill-opacity:0.85020238"
        id="circle119"
        cx="108.06303"
        cy="41.70726"
        r="27.411098" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.283263"
+       style="fill:#fff64a;fill-rule:evenodd;stroke-width:0.283263;fill-opacity:0.85000002"
        id="circle121"
        cx="108.06303"
        cy="104.0252"
        r="27.411098" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.283263"
+       style="fill:#ff2f00;fill-rule:evenodd;stroke-width:0.283263;fill-opacity:0.85000002"
        id="circle123"
        cx="108.06303"
        cy="167.47623"
        r="27.411098" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.283263"
+       style="fill:#41cd21;fill-rule:evenodd;stroke-width:0.283263;fill-opacity:0.85000002"
        id="circle125"
        cx="108.06303"
        cy="230.92728"
        r="27.411098" />
     <circle
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#371700;fill-rule:evenodd;stroke-width:3;stroke:#2a0828;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
        id="circle127"
        cx="171.3429"
-       cy="45.720444"
+       cy="132.04063"
        r="25.603447" />
+    <path
+       style="fill:#2a0828;fill-opacity:1;stroke:#2a0828;stroke-width:0.241926px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.10339,157.12332 c 6.81829,8.1498 1.1722,14.10161 7.11486,18.5929 2.26923,1.71502 4.40621,1.37473 6.80936,-0.25305 5.45958,-4.45588 0.19756,-16.18489 8.43959,-20.14015"
+       id="path14525"
+       sodipodi:nodetypes="cscc" />
   </g>
 </svg>
