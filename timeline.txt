@@ -1,0 +1,16 @@
+This is a timeline of all events in my project. This is not vital information and is for reference purposes only. You are not required to read all of this, and frankly it probably isn't worth your time anyway.
+
+8/19/21: Beginning of project. Brainstorm document created. Many things planned: overall concepts, modification options, score changers, and more.
+8/25/21: Added a list of songs I want to add. Notable examples include the planned hardest song Hello (BPM) 2021 by Camellia and the obligatory Freedom Dive.
+8/27/21 (1): Completed prototype note shapes. Default notes are simple blue circles with dark blue border; anti-notes are very dark red with a dripping effect.
+8/27/21 (2): Scrapped prototype note shapes because the program I used turned out to be really bad for making graphics.
+8/27/21 (3): Began experimenting with vector graphics software. Default note finished since it's literally just two circles.
+8/30/21 (1): Finished prototype notes with vector graphics this time. Planning on adding more detail.
+8/30/21 (2): Added a skull to anti-note prototype. It looks sick and I'm proud of myself.
+8/30/21 (3): Changed default notes to four different colors: blue, red, green, and yellow.
+9/1/21: Presented game idea to the class. Reception was overall positive with several questions. Mr. Jones was especially interested in Hello (BPM) 2021.
+9/3/21: Began actual software development. Game is currently being created in GameMaker Studio 2. Progress is extremely slow as I have never used it before.
+9/7/21 (1): Wrote first program in GMS. Program checks if key A, S, K, or L is pressed and updates a GUI with the previously pressed key.
+9/7/21 (2): Pseudocoded the entire game in Google Docs. Includes settings and credits menu.
+9/7/21 (3): Had an epiphany and changed game name to Ready 2 Rock (or R2R). This will likely be the final name.
+9/8/21: File containing the note designs has disappeared. I don't know how. The file is just empty. Time to redraw the notes again.
