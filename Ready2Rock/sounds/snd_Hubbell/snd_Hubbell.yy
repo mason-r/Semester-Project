@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Hubbell.mp3",
+  "soundFile": "snd_Hubbell.mp3",
   "duration": 34.6383667,
   "parent": {
     "name": "Rooms",
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Hubbell",
+  "name": "snd_Hubbell",
   "tags": [],
   "resourceType": "GMSound",
 }

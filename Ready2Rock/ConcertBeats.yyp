@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"left_key_press","path":"objects/left_key_press/left_key_press.yy",},"order":4,},
-    {"id":{"name":"Hubbell","path":"sounds/Hubbell/Hubbell.yy",},"order":6,},
+    {"id":{"name":"snd_Hubbell","path":"sounds/snd_Hubbell/snd_Hubbell.yy",},"order":6,},
     {"id":{"name":"keybinds","path":"objects/keybinds/keybinds.yy",},"order":1,},
     {"id":{"name":"left_scroll","path":"paths/left_scroll/left_scroll.yy",},"order":5,},
     {"id":{"name":"far_left_hit","path":"sprites/far_left_hit/far_left_hit.yy",},"order":3,},
