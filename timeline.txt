@@ -15,3 +15,4 @@ This is a timeline of all events in my project. This is not vital information an
 9/7/21 (3): Had an epiphany and changed game name to Ready 2 Rock (or R2R). This will likely be the final name.
 9/8/21: File containing the note designs has disappeared. I don't know how. The file is just empty. Time to redraw the notes again.
 9/9/21: Notes have been redrawn. It took much shorter than the first time. Also added hit areas.
+9/10/21: Nothing is working. I can't get any code to run properly. No music is playing. No sprites are drawing. I don't understand what I'm doing wrong.
