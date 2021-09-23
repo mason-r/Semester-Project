@@ -17,3 +17,7 @@ This is a timeline of all events in my project. This is not vital information an
 9/9/21: Notes have been redrawn. It took much shorter than the first time. Also added hit areas.
 9/10/21: Nothing is working. I can't get any code to run properly. No music is playing. No sprites are drawing. I don't understand what I'm doing wrong.
 9/15/21: Added hit zones. As of now they're just slightly bigger grey circles. I'll probably figure out how to change their color through GMS when a key is pressed.
+9/20/21: Gave up on GMS. Switched to coding on Snap. Got a working prototype in minutes. I probably should have used this to begin with.
+9/21/21: Charted first "song" (actually just an audio file of me screaming). It was just a test of the random note system but man was it funny
+9/22/21: Began charting actual first song. It's a drum cadence called Hubbell Travel Cadence, usually shortened to Hubbell. It's only 30 seconds long so it should be quick.
+9/23/21: Charted the first two bars of Hubbell. This is going to be way harder than I thought.
