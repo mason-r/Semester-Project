@@ -21,4 +21,5 @@ This is a timeline of all events in my project. This is not vital information an
 9/21/21: Charted first "song" (actually just an audio file of me screaming). It was just a test of the random note system but man was it funny
 9/22/21: Began charting actual first song. It's a drum cadence called Hubbell Travel Cadence, usually shortened to Hubbell. It's only 30 seconds long so it should be quick.
 9/23/21: Charted the first two bars of Hubbell. This is going to be way harder than I thought.
-9/24/21: Note that Hubbell is about 30 seconds long and I really want to chart a song that's SIX AND A HALF MINUTES LONG. That's 13 times as long.
+9/24/21 (1): Note that Hubbell is about 30 seconds long and I really want to chart a song that's SIX AND A HALF MINUTES LONG. That's 13 times as long.
+9/24/21 (2): Turns out the file for the super long song was too big. I had to make it a mono track to cut the size in half. Now it's small but doesn't sound as good :(
