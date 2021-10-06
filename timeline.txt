@@ -25,3 +25,4 @@ This is a timeline of all events in my project. This is not vital information an
 9/24/21 (2): Turns out the file for the super long song was too big. I had to make it a mono track to cut the size in half. Now it's small but doesn't sound as good :(
 9/24/21 (3): I've discovered a major problem: latency. Any time there are more than like eight notes on the screen it starts slowing down. This could be very bad.
 9/24/21 (4): So the aforementioned lag was actually because I had the script creating all the notes open while the game ran, which slowed it down a lot. Oops.
+10/4/21: Started charting Happy End of the World. It'll take a super long time to chart so it might be my only song. I'm planning on adding different effects for cool factor.
