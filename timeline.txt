@@ -26,3 +26,4 @@ This is a timeline of all events in my project. This is not vital information an
 9/24/21 (3): I've discovered a major problem: latency. Any time there are more than like eight notes on the screen it starts slowing down. This could be very bad.
 9/24/21 (4): So the aforementioned lag was actually because I had the script creating all the notes open while the game ran, which slowed it down a lot. Oops.
 10/4/21: Started charting Happy End of the World. It'll take a super long time to chart so it might be my only song. I'm planning on adding different effects for cool factor.
+10/7/21: Going to try and keep a running total of how much I've charted. Currently 8.5 of 387 seconds (2.2%). And this laptop is kind of laggy so the note timings get weirdly offset. I'm hoping it's because the computer lags and not because the BPM system on Snap isn't working properly.
