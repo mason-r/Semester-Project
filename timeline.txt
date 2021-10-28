@@ -35,4 +35,4 @@ This is a timeline of all events in my project. This is not vital information an
 10/22/21: Added more background flashing and charted up until the spotlights show up. Also realized that I should probably set my battery power to max performance. 20.9% complete.
 10/27/21 (1): I forgot to save all my work I did last week. I need to make sure this doesn't happen again.
 10/27/21 (2): My frustration ended up fueling my work. I actually charted more than I lost. Finished the second block (about 48 seconds). 27.6% complete.
-10/28/21: Fixed weird timing in the beginning. Some other stuff got a tiny bit offset but now I'm worried that I'll mess up what comes later. It should be fine I guess
+10/28/21: Fixed a ton of inconsistent timing. Now everything I chart in the future will be 100% lined up.
