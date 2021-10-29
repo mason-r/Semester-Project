@@ -37,4 +37,5 @@ This is a timeline of all events in my project. This is not vital information an
 10/27/21 (2): My frustration ended up fueling my work. I actually charted more than I lost. Finished the second block (about 48 seconds). 27.6% complete.
 10/28/21 (1): Fixed a ton of inconsistent timing. Now everything I chart in the future will be 100% lined up.
 10/28/21 (2): Completed charting two minutes (and two seconds) of the song, up to the first tempo change. 31.5% complete.
-10/29/21: The program started lagging really badly out of nowhere. I didn't change anything and suddenly the whole song gets a full beat off by the end. What happened???
+10/29/21 (1): The program started lagging really badly out of nowhere. I didn't change anything and suddenly the whole song gets a full beat off by the end. What happened???
+10/29/21 (2): I decided to delete the spotlights since they add way too much lag in the fast parts.
