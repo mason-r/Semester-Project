@@ -40,4 +40,4 @@ This is a timeline of all events in my project. This is not vital information an
 10/29/21 (1): The program started lagging really badly out of nowhere. I didn't change anything and suddenly the whole song gets a full beat off by the end. What happened???
 10/29/21 (2): I decided to delete the spotlights since they add way too much lag in the fast parts. The game runs much better now.
 10/29/21 (3): Charted all of the first drop and tempo change. Back to the beginning of the song. 36.7% complete with a total of 605 notes.
-11/3/21: Charted up until the first major drop. Nearly halfway done!!!! 47.3% complete with a total of 820 notes.
+11/3/21: Charted up until the first major drop. Nearly halfway done!!!! Block 4 ended up being about 40 seconds long. 47.3% complete with a total of 820 notes.
