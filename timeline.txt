@@ -44,4 +44,4 @@ This is a timeline of all events in my project. This is not vital information an
 11/3/21 (2): Added a big text block that says "Happy End of the World" right before the drop and then the background snaps to white at the drop. Effects are fun.
 11/4/21: Officially halfway done (50.9%). The first drop has a ton of super weird rhythms so I've been struggling a bit.
 11/5/21 (1): Snap is REALLY struggling with my game. Things are getting out of sync that were fine before. Charted past the drop but now I need to go back and fix a lot of things. 52.6% complete.
-11/5/21 (2): BREAKTHROUGH AGAIN. Added two keybinds to adjust tempo so I can fix bad timings WHILE PLAYING THE SONG. This will help greatly for the rest of the game.
+11/5/21 (2): BREAKTHROUGH AGAIN. Added two keybinds to adjust tempo so I can fix bad timings WHILE PLAYING THE SONG. This will help greatly for the rest of the game. 59.2% complete.
